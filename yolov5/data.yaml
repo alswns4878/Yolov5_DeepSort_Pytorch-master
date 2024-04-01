@@ -1,0 +1,5 @@
+train: D:\yolov5\person_cart\dataset\Carros_Compra.v2i.yolov5pytorch\train\images
+val: D:\yolov5\person_cart\dataset\Carros_Compra.v2i.yolov5pytorch\valid\images
+
+nc: 2
+names: ['person', 'cart']
